@@ -1,4 +1,4 @@
-# AI Anime Subtitle Generator (Prototype) – W2026203
+#  AI Anime Subtitle Generator & Multilingual Dubbing Tool – W2026203
 
 **Student:** Md Mahdi Ahmed  
 **Student ID:** W2026203  
