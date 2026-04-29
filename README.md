@@ -2,7 +2,7 @@
 
 **Student:** Md Mahdi Ahmed  
 **Student ID:** W2026203  
-**Module:** 6COSC023W – Computer Science Final Project (IPD Prototype)
+**Module:** 6COSC023W – Computer Science Final Project 
 
 ## Overview
 This prototype generates subtitles from any video audio using Whisper (Speech-to-Text + Translation) and provides:
