@@ -1,8 +1,8 @@
-#  AI Anime Subtitle Generator & Multilingual Dubbing Tool – W2026203
+# AI Anime Subtitle Generator (Prototype) – W2026203
 
 **Student:** Md Mahdi Ahmed  
 **Student ID:** W2026203  
-**Module:** 6COSC023W – Computer Science Final Project 
+**Module:** 6COSC023W – Computer Science Final Project (IPD Prototype)
 
 ## Overview
 This prototype generates subtitles from any video audio using Whisper (Speech-to-Text + Translation) and provides:
@@ -28,9 +28,26 @@ This prototype generates subtitles from any video audio using Whisper (Speech-to
 2) Add FFmpeg `bin` folder to Environment Variables -> PATH
 3) Restart terminal
 
-## Setup
-Open a terminal in the project folder and run:
+## Setup & Run Instructions
+Vs code terminal run - { python -m venv .venv }
+windows powershell inside terminal of the folder : run it -{ .venv\Scripts\Activate } 
+then -
 
-```bash
+1. Install Python (3.10 or 3.11 recommended)
+
+2. Install dependencies:
 pip install -r requirements.txt
+
+3. Install :
+ pip install deep-translator
+
+4. Install :
+  pip install streamlit
+
+5. Run the application:
 streamlit run app.py
+
+## Important Notes
+- This system runs locally due to high computational requirements (Whisper, FFmpeg)
+- FFmpeg must be installed and added to system PATH
+- Full functionality is demonstrated in the submitted video
