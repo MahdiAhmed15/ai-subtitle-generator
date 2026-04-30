@@ -29,7 +29,8 @@ This prototype generates subtitles from any video audio using Whisper (Speech-to
 3) Restart terminal
 
 ## Setup & Run Instructions
-Vs code terminal run - { python -m venv .venv }
+Vs code terminal : run - { python -m venv .venv }
+
 windows powershell inside terminal of the folder : run it -{ .venv\Scripts\Activate } 
 then -
 
